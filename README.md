@@ -1,6 +1,6 @@
-# Kaypuna Com
+# Adijaya.ID
 
-grav project kaypuna-com
+grav project adijaya.id
 
 ## Getting started
 
@@ -15,7 +15,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/adijayainc/kaypuna-com.git
+git remote add origin https://gitlab.com/adijayainc/adijayaid.git
 git branch -M main
 git push -uf origin main
 ```
