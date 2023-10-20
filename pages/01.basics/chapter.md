@@ -5,8 +5,8 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 1
+### Adijaya.ID Network
 
-# Basics
+# Selamat Datang di Adijaya Akademi
 
 Discover the **basic** principles
