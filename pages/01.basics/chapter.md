@@ -7,6 +7,6 @@ child_type: docs
 
 ### Adijaya.ID Network
 
-# Selamat Datang di Adijaya Akademi
+# Selamat Datang
 
 Discover the **basic** principles
