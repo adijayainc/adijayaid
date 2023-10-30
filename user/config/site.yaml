@@ -1,0 +1,19 @@
+title: adijaya.id
+default_lang: en
+author:
+  name: adijaya
+  email: adijaya@gmail.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'adijaya akademi , belajar yang bermanfaat'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog

@@ -1,0 +1,16 @@
+state: enabled
+email: adijaya@gmail.com
+fullname: adijaya
+title: sysadmin
+hashed_password: $2y$10$U7SU4F5S2NsuIjQzo9VBB.RCk/LYMpYIhdVTXtLdG4xmNBIGkll2K
+language: en
+content_editor: default
+twofa_enabled: false
+twofa_secret: E3A65RT5UQNAO3OHB4BODLHKEUIPMO5Z
+avatar: {  }
+access:
+  site:
+    login: true
+  admin:
+    login: true
+    super: true
