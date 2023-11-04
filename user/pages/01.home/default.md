@@ -1,10 +1,13 @@
-adijaya.id , berdaptasi mengarungi dunia baru 
+# (a.i)  adijaya.id 
 
-!! Note: If you want more detailed content, download and copy/paste the `pages` directory from [the hypertext github repository](http://github.com/artofthesmart/hypertext) into your website's `user/pages` directory.
+## Mitra Terbaik Adaptasi di Dunia Informasi Teknologi  
+
+!! agar tetap relevan , kita harus terus menerus mengimbangi pesatnya perkembangan teknologi , artinya tidak ada kata berhenti untuk belajar.
 
 ===
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a quam et mauris aliquet pulvinar eget vitae urna. Phasellus varius tortor lectus, quis venenatis arcu porta at. Duis placerat tellus vitae porta tempus. Aliquam erat volutpat. In purus arcu, elementum ut felis ut, aliquam pretium ipsum. 
+> **_Artificial Intelligent  is the new electricity , it can transform with range industry including , healthcare , transportation , education , manufacturing and finance . _**
+>
 
 ### Aliquam sed odio nibh
 
