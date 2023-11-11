@@ -1,0 +1,61 @@
+name: Material Lite
+version: 0.6
+description: Material Lite is a lightweight theme reflecting Google's Material Design standards.
+icon: rebel
+author:
+  name: Tyler Woods & diomed
+  email: tyler@tylermade.net
+homepage: https://tylermade.net
+keywords: grav, theme, material, etc
+bugs: https://github.com/tnware/grav-theme-material-lite/issues
+readme: https://github.com/tnware/grav-theme-material-lite/blob/master/README.md
+license: MIT
+
+form:
+  validation: loose
+  fields:
+    social.enabled:
+        type: toggle
+        label: Social Icons in Footer
+        highlight: 1
+        default: 1
+        options:
+          1: Enabled
+          0: Disabled
+        validate:
+          type: bool
+    fburl:
+        type: text
+        size: medium
+        label: Facebook
+        prepend: 'https://facebook.com/'
+        validate:
+          type: text
+    gplusurl:
+        type: text
+        size: medium
+        label: Google
+        prepend: 'https://google.com/'
+        validate:
+          type: text
+    linkedinurl:
+        type: text
+        size: medium
+        label: Linkedin
+        prepend: 'https://linkedin.com/'
+        validate:
+          type: text
+    twitterurl:
+        type: text
+        size: medium
+        label: Twitter
+        prepend: 'https://twitter.com/'
+        validate:
+          type: text
+    discordurl:
+        type: text
+        size: medium
+        label: Discord
+        prepend: 'https://discord.gg/'
+        validate:
+          type: text

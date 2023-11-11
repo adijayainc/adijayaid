@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 This is a basic post with a summary header, but nothing else.
 
 ===
