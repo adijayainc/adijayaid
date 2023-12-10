@@ -12,4 +12,8 @@ content:
 
 ### Blog
 
-berita terbaru tentang AI 
+**berita terbaru tentang AI **
+
+Everyday AI (productivity ,operation )
+
+Game Changing AI ( creativity , business trend )

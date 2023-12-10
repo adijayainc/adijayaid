@@ -4,7 +4,7 @@ taxonomy:
         - animals
     tag:
         - cats
-published: false
+published: true
 ---
 
 This post has a summary and an image. Includes a category but no tags.
