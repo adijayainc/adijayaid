@@ -1,7 +1,11 @@
-# (a.i)  adijaya.id 
+---
+title: '@di Academy'
+media_order: 'goldfish.jpg,young_indonesian__arguing__glasses_thick_circle_frame__long_hair__full_body__face_like_sukarno_seed-0ts-1702221683_idx-0.png'
+---
 
 ## Mitra Terbaik Adaptasi di Dunia Informasi Teknologi  
 
+![young_indonesian__arguing__glasses_thick_circle_frame__long_hair__full_body__face_like_sukarno_seed-0ts-1702221683_idx-0](young_indonesian__arguing__glasses_thick_circle_frame__long_hair__full_body__face_like_sukarno_seed-0ts-1702221683_idx-0.png "young_indonesian__arguing__glasses_thick_circle_frame__long_hair__full_body__face_like_sukarno_seed-0ts-1702221683_idx-0")
 ### Setiap Hari Gen AI
 
 - Selamat datang di dunia yang menarik dari Kecerdasan Buatan yang Generatif, di mana komputer belajar untuk mencipta dan membayangkan hal-hal, sama seperti kamu!
