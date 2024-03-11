@@ -5,7 +5,6 @@ media_order: 'goldfish.jpg,young_indonesian__arguing__glasses_thick_circle_frame
 
 ## Mitra Terbaik Adaptasi di Dunia Informasi Teknologi  
 
-![young_indonesian__arguing__glasses_thick_circle_frame__long_hair__full_body__face_like_sukarno_seed-0ts-1702221683_idx-0](young_indonesian__arguing__glasses_thick_circle_frame__long_hair__full_body__face_like_sukarno_seed-0ts-1702221683_idx-0.png "young_indonesian__arguing__glasses_thick_circle_frame__long_hair__full_body__face_like_sukarno_seed-0ts-1702221683_idx-0")
 ### Setiap Hari Gen AI
 
 - Selamat datang di dunia yang menarik dari Kecerdasan Buatan yang Generatif, di mana komputer belajar untuk mencipta dan membayangkan hal-hal, sama seperti kamu!
@@ -18,6 +17,10 @@ media_order: 'goldfish.jpg,young_indonesian__arguing__glasses_thick_circle_frame
 ### Bagaimana Cara Kerjanya?
 - Komputer menggunakan algoritma khusus (bayangkan sebagai instruksi super cerdas) untuk belajar dari banyak data dan menciptakan sesuatu yang baru.
 - Bayangkan mengajari komputer untuk menggambar dengan menunjukkan banyak gambar kucing. Setelah belajar, komputer bisa membuat gambar kucing unik sendiri!
+
+
+### Training Gratis ada di Internet :
+- google menyediakan training AI agar kita tidak ketinggalan
 
 ### Contoh Menyenangkan:
 - **Kreasi Artistik:** Kecerdasan Buatan yang Generatif bisa membuat seni indah, seperti gambar dan lukisan. Kami akan menunjukkan beberapa gambar menakjubkan yang dibuat oleh komputer!
