@@ -43,3 +43,5 @@ media_order: 'goldfish.jpg,young_indonesian__arguing__glasses_thick_circle_frame
 ### Waktu Umpan Balik
 - Apa yang kamu nikmati dari pembelajaran tentang Kecerdasan Buatan yang Generatif?
 - Apakah ada sesuatu yang membuat bingung atau yang ingin kamu pelajari lebih lanjut?
+
+@adijayainc
