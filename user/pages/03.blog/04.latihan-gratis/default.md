@@ -9,15 +9,13 @@ berikut ini training gratis yang disediakan beberapa perusahan teknologi
 
 tidak perlu banyak mengeluarkan biaya untuk mengerti AI , hanya dengan menyediakan waktu dan harus fokus
 
+1. Introduction to Generative AI
 
-| Judul Training                           | Penjelasaan 																					| Link  												|
-|------------------------------------------|--------------------------------------------------------------------------------------- |------------------------------------------------|
-|1. Introduction to Generative AI |→ This course helps you make Gen AI apps using Google Tools.  |Course Link: http://cloudskillsboost.google/course_templates/536 |
-|                                                   |→ It takes about 45 minutes to finish.												|															|
-|                                                   |→ You get a Free Badge Certificate when you're done.					|															|
-|													|→ This course helps you make Gen AI apps using Google Tools.	|															|
-|													|→ It takes about 45 minutes to finish.												  |															|
-|													|→ You get a Free Badge Certificate when you're done.					|															|
+→ This course helps you make Gen AI apps using Google Tools.
+
+→ It takes about 45 minutes to finish.
+
+→ You get a Free Badge Certificate when you're done.
 
 Course Link: http://cloudskillsboost.google/course_templates/536
 
@@ -84,3 +82,5 @@ Earn a skill badge by completing the following courses:
 Pass the final quiz to showcase your grasp of foundational concepts in generative AI.
 
 Course Link: http://cloudskillsboost.google/course_template/556
+
+Reseach : AI can process a lot information for you
