@@ -1,10 +1,10 @@
 ---
-title: Keseruan
+title: About
 ---
 
 ## Menyajikan Keseruan Belajar Artificial Intelligence (AI)
 
-@di Academy adalah tempat yang menyenangkan untuk mendalami dunia Artificial Intelligence (AI)! Kami adalah komunitas yang didedikasikan untuk menjadikan pemahaman tentang AI lebih mudah dan menyenangkan. Berikut adalah gambaran singkat tentang kami:
+Adijaya.id adalah tempat yang menyenangkan untuk mendalami dunia Artificial Intelligence (AI)! Kami adalah komunitas yang didedikasikan untuk menjadikan pemahaman tentang AI lebih mudah dan menyenangkan. Berikut adalah gambaran singkat tentang kami:
 
 1. **Tujuan Kami:**
    - Membuat belajar tentang Artificial Intelligence menjadi pengalaman yang menyenangkan dan terjangkau untuk semua kalangan.

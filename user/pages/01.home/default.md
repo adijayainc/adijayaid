@@ -1,14 +1,9 @@
 ---
-title: '@di Academy'
+title: Home
 media_order: 'goldfish.jpg,young_indonesian__arguing__glasses_thick_circle_frame__long_hair__full_body__face_like_sukarno_seed-0ts-1702221683_idx-0.png'
 ---
 
-## Mitra Terbaik Adaptasi di Dunia Informasi Teknologi  
-
-### Setiap Hari Gen AI
-
-- Selamat datang di dunia yang menarik dari Kecerdasan Buatan yang Generatif, di mana komputer belajar untuk mencipta dan membayangkan hal-hal, sama seperti kamu!
-- Kecerdasan Buatan yang Generatif adalah jenis teknologi khusus yang membantu komputer menjadi kreatif dan menghasilkan ide-ide baru.
+## Mitra Terbaik memahami genAI
 
 ### Apa Itu Kecerdasan Buatan yang Generatif?
 - Kecerdasan Buatan yang Generatif seperti seniman super cerdas yang belajar dari banyak contoh kemudian menciptakan sesuatu sendiri.
@@ -44,4 +39,5 @@ media_order: 'goldfish.jpg,young_indonesian__arguing__glasses_thick_circle_frame
 - Apa yang kamu nikmati dari pembelajaran tentang Kecerdasan Buatan yang Generatif?
 - Apakah ada sesuatu yang membuat bingung atau yang ingin kamu pelajari lebih lanjut?
 
-@adijayainc
+[@adijayainc
+](https://x.com/adijayainc)

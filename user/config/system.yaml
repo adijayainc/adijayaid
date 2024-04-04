@@ -172,6 +172,7 @@ images:
     retina_scale: 1
   defaults:
     loading: auto
+    decoding: auto
   watermark:
     image: 'system://images/watermark.png'
     position_y: center
