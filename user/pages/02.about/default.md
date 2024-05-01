@@ -30,4 +30,31 @@ Adijaya.id adalah tempat yang menyenangkan untuk mendalami dunia Artificial Inte
 8. **Kontak Kami:**
    - Jangan ragu untuk menghubungi kami untuk pertanyaan, saran, atau berbagi ide. Kami senang mendengar dari Anda!
 
+9. ** Use Case gen-AI **
+
+- **  Text and Code Generation **
+   - writing creative content
+   - Generating code 
+   - Summarizing text
+   - Creating chatbots
+- **  Images and Video Generation **
+   - creating realistic images
+   - Designing product prototypes 
+   - Generating video game assets 
+   - Editing images and videos
+   - Creating personalized marketing materials
+- **  Audio and Music Generation **
+   - Composing music in different styles
+   - generating realistic sound effects
+   - Voice cloning 
+   - Audio restoration
+   - creating personalized soundscapes
+- **  Other Application **
+   - Drug discovery and development
+   - Material science 
+   - Financial forecasting 
+   - Personalized education
+   - generating synthetic data 
+
+
 Mari bersama-sama menjelajahi keajaiban Artificial Intelligence di Adijaya.id!
