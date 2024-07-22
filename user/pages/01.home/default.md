@@ -11,6 +11,9 @@ Dalam masa yang sama , teknologi mengalami perubahan secara exponential, sementa
 ### Tantangan dan Harapan ?
 hanya dengan belajar ilmu baru kita dapat mengikuti perubahan teknologi. Kondisi AI sama seperti awal terjadinya booming internet saat tahun 2000 awal , banyak yang memulai investasi dengan harapan mendapat pengembalian value yang sangat tinggi, tetapi apa yang terjadi hanya meninggalkan kerugian yang tidak sedikit, meskipun begitu , internet tetap terus berkembang meskipun tidak sebombastis  yang diperkirakan. Perlu kita memahami teknologi ini agar tidak terulang. 
 
+### Open Source vs Close Source
+LLM, atau large language Machine saat ini mempunyai versi yang berbeda , salah satunya adalah close Source seperti OpenAI , dan Open Source , seperti pada Mistral dan Meta. Masing-masing mempunyai keunggulan dan kekurangan yang berbeda.
+
 ### Penyedia Layanan Belajar Gratis 
 - Google 
 - Microsoft 
