@@ -3,12 +3,12 @@ title: Home
 media_order: 'goldfish.jpg,young_indonesian__arguing__glasses_thick_circle_frame__long_hair__full_body__face_like_sukarno_seed-0ts-1702221683_idx-0.png'
 ---
 
-## Mitra Terbaik memahami genAI
+## Adijaya.id Adalah Mitra Terbaik memahami genAI
 
-### Perubahan Teknologi dan Manusia 
+## Mengapa memepelajari Teknologi 
 Dalam masa yang sama , teknologi mengalami perubahan secara exponential, sementara manusia hanya mampu menjalani perubahan secara linier, sebagai perbandingan , apabila bergerak 30 langkah kedepan secara liner , mungkin dapat menumpuh sekitar setengah lapangan sepak bola , sedangkan apabila bergerak 30 langkah secara exponensial , jarak tempuhnya mungkin bisa mencapai bulan. Perbedaan kecepatan ini  memerlukan tingkat adaptasi yang sangat tinggi, sehingga manusia harus terus belajar dan memahami perubahan teknologi  agar tetap bisa relevan. 
 
-## Model Bahasa Indonesia untuk Open-Source LLM
+## Model gen AI untuk Open-Source LLM
 
 Sulit untuk menentukan jumlah pasti LLM open-source, karena bidang ini terus berkembang. Namun, ada beberapa yang terkenal, dan model baru terus dirilis. Berikut uraiannya:
 
@@ -23,7 +23,7 @@ Sulit untuk menentukan jumlah pasti LLM open-source, karena bidang ini terus ber
 * **Code Llama:** LLM berfokus pada kode dari Facebook, mampu menghasilkan kode dan debugging.
 * **StableLM:** Serangkaian model open-source yang berfokus pada pembuatan kode, pembuatan teks, dan tugas lainnya.
 
-**Kelebihan dan Kekurangan LLM Open-Source:**
+## Kelebihan dan Kekurangan LLM Open-Source
 
 **Kelebihan:**
 
@@ -40,7 +40,7 @@ Sulit untuk menentukan jumlah pasti LLM open-source, karena bidang ini terus ber
 * **Bias dan Keamanan:** Model open-source dapat mewarisi bias dari data pelatihan mereka, dan penting untuk mengatasi masalah etika dan mengurangi potensi bahaya.
 * **Pemeliharaan dan Dukungan:** Tanggung jawab untuk memelihara dan mendukung LLM open-source berada di tangan komunitas, yang dapat menyebabkan inkonsistensi dan kekurangan dalam dokumentasi.
 
-**Memilih LLM Open-Source yang Tepat:**
+## Memilih LLM Open-Source yang Tepat:
 
 LLM open-source yang ideal bergantung pada kebutuhan dan sumber daya spesifik Anda. Pertimbangkan faktor-faktor seperti:
 
