@@ -3,14 +3,16 @@ title: Home
 media_order: 'goldfish.jpg,young_indonesian__arguing__glasses_thick_circle_frame__long_hair__full_body__face_like_sukarno_seed-0ts-1702221683_idx-0.png'
 ---
 
-## Adijaya.id Adalah Mitra Terbaik memahami genAI
+## Adijaya.id ::  Mitra Terbaik memahami genAI
 
-## Mengapa memepelajari Teknologi 
-Dalam masa yang sama , teknologi mengalami perubahan secara exponential, sementara manusia hanya mampu menjalani perubahan secara linier, sebagai perbandingan , apabila bergerak 30 langkah kedepan secara liner , mungkin dapat menumpuh sekitar setengah lapangan sepak bola , sedangkan apabila bergerak 30 langkah secara exponensial , jarak tempuhnya mungkin bisa mencapai bulan. Perbedaan kecepatan ini  memerlukan tingkat adaptasi yang sangat tinggi, sehingga manusia harus terus belajar dan memahami perubahan teknologi  agar tetap bisa relevan. 
+> Teknologi bergerak secara exponential 
+> <br> manusia pengikuti dengan linier 
+> <br> AI saja tidak dapat menggantikan peran manusia
+> <br> GenAI mengalami perkembangan yang pesat
 
-## Model gen AI untuk Open-Source LLM
+## Fondation Model genAI
 
-Sulit untuk menentukan jumlah pasti LLM open-source, karena bidang ini terus berkembang. Namun, ada beberapa yang terkenal, dan model baru terus dirilis. Berikut uraiannya:
+Mempelajari menggunakan Open source lebih mudah untuk mengerti konsep LLM dengan genAI
 
 **LLM Open-Source yang Populer:**
 
