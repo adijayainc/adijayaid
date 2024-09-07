@@ -1,17 +1,24 @@
 ---
 title: Home
 media_order: 'goldfish.jpg,young_indonesian__arguing__glasses_thick_circle_frame__long_hair__full_body__face_like_sukarno_seed-0ts-1702221683_idx-0.png'
+sitemap:
+    lastmod: '26-08-2024 04:36'
+media:
+    featured_image:
+        toggle: true
+        file: {  }
+partials:
+    header_subtitle:
+        toggle: true
+    metadata:
+        where: header
+    breadcrumbs:
+        toggle: false
 ---
 
-## Adijaya.id ::  Mitra Terbaik memahami genAI
-
-> Teknologi bergerak secara exponential 
-> <br> manusia pengikuti dengan linier 
-> <br> AI saja tidak dapat menggantikan peran manusia
-> <br> GenAI mengalami perkembangan yang pesat
-
-## Fondation Model genAI
-
+<aside>
+menu untuk disamping 
+</aside>
 Mempelajari menggunakan Open source lebih mudah untuk mengerti konsep LLM dengan genAI
 
 **LLM Open-Source yang Populer:**
