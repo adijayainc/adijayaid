@@ -1,0 +1,38 @@
+structure:
+  inline_navbar: true
+  inline_pagination: true
+  use_decorators: true
+  html_mode: default
+  use_favicon: true
+  show_date: everywhere
+  add_site_name: true
+style:
+  configuration: centered
+  width: '768'
+  allowCSS: false
+  allowJS: false
+  stylesheet: water-light
+  include_type: default
+  image_cropping: true
+  inline_navbar: 1
+  customCSS: null
+  visually_impared_mode: false
+partials:
+  header:
+    show_subtitle: true
+    custom_header_image: null
+  footer:
+    custom_footer_type: markdown
+    custom_footer: 'powered by <a href="https://digitalneo.id"> digitalneo.id </a>'
+favicon: {  }
+menu:
+  menuItems:
+    -
+      text: Repository
+      href: 'https://adijayainc.github.io'
+      isOffsite: true
+      isNewWindow: true
+      fieldset:
+        rel: null
+        name: null
+        title: null

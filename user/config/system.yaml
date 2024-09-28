@@ -35,7 +35,7 @@ pages:
   type: regular
   dirs:
     - 'page://'
-  theme: canvas
+  theme: hypertext
   order:
     by: default
     dir: asc
