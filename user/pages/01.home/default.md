@@ -10,7 +10,7 @@ show_clickthrough: true
 > Apa yang harus dilakukan umat manusia?  
 > memahami apa itu AI dan pengaruhnya terhadap hidup manusia. 
 
-[Adijaya.Id](http://adijaya.id) mempelajari perkembangan generative AI.
+[Adijaya.Id](http://adijaya.id) Mempunyai misi untuk memudahkan adaptasi dengan perkembangan jalan dan mempelajari teknologi terbaru saat ini , yaitu  generative AI.
  
 *  Science dan Paper Works  
 *  Teknologi Terapan 
