@@ -10,7 +10,12 @@ show_clickthrough: true
 > Apa yang harus dilakukan umat manusia?  
 > memahami apa itu AI dan pengaruhnya terhadap hidup manusia. 
 
-[Adijaya.Id](http://adijaya.id) Mempunyai misi untuk memudahkan adaptasi dengan perkembangan jalan dan mempelajari teknologi terbaru saat ini , yaitu  generative AI.
+[Adijaya.Id](http://adijaya.id) Mempunyai misi untuk memudahkan adaptasi dengan perkembangan zaman dan mempelajari teknologi terbaru saat ini , yaitu  generative AI.
+
+Perkembangan AI semakin mendapat perhatian dengan ditetapkannya ilmuwan AI mendapat [Nobel Prize](https://www.nature.com/articles/d41586-024-03310-8) tahun 2024, bahkan dalam 2 katagori, dalam bidang Fisika dan Kimia.
+
+
+
  
 *  Science dan Paper Works  
 *  Teknologi Terapan 
