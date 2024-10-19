@@ -1,4 +1,5 @@
 ---
+title: Gen AI
 allowCSS: default
 allowJS: default
 show_header_image: true
