@@ -1,7 +1,7 @@
-<b> You don't need giant supercomputer anymore , but you need only basic models that can then become more and more intelegent by going away and doing the work and checking each other's answers. Swarms of Intelligence </b>
+<p>You don't need giant supercomputer anymore , but you need only basic models that can then become more and more intelegent by going away and doing the work and checking each other's answers. Swarms of Intelligence
 ===
-
-# Kumpulan Prompt
+</p>
+## Kumpulan Prompt
 
 <h1>top 10 twitter thread</h1>
 <p>
