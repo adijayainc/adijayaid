@@ -34,6 +34,8 @@ show_clickthrough: true
 
 Perkembangan AI semakin mendapat perhatian dengan ditetapkannya ilmuwan AI mendapat [Nobel Prize](https://www.nature.com/articles/d41586-024-03310-8) tahun 2024, bahkan dalam 2 katagori, dalam bidang Fisika dan Kimia.
 
+Hypothesis : LLM performance depends purely on task familiarity, not at all on task complexity
+
 ** Gen AI **
 Pengantar Generative Artificial Intelegent:
 - Merupakan Aplikasi Statistik 
