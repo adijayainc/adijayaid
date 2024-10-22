@@ -36,3 +36,5 @@ How can system 1 help system 2 ?
 System 2 related techniques involve a lot of enumeration over combinations of things ( walking down graphs/trees with large branching factors) key issue : combinatorial explosion
 System 1 : turn a lot of discreate data into a data strucure that enables fast, approximate judgements calls about the target discrete space only feasible if: discrete space has same interpolative 
 Key Idea: use these fast-but-maybe-wrong judgement calls to keep combinatorial explosion in check 
+
+Linus Torvalds says AI will change the world but it is currently 90% marketing and 10% reality, and it will take another 5 years for it to become clear what AI is really useful for
