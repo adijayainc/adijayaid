@@ -8,6 +8,7 @@ thumbnail_image_file: calendar.jpg
 youtube:
     player_parameters:
         autoplay: 1
+        width: 600
 taxonomy:
     category:
         - 'winter'
@@ -27,5 +28,6 @@ Larry Summers says the implications of AI are greater than any past technology: 
 
 ![An image of January.](january.jpg){align=left}
 
-![Larry Summers]{https://www.youtube.com/watch?v=wvBzGK72rgU}
 [plugin:youtube](https://www.youtube.com/watch?v=wvBzGK72rgU)
+
+[plugin:youtube](https://www.youtube.com/watch?v=7bmhjt1cpRs)
