@@ -1,22 +1,23 @@
 enabled: true
 built_in_css: true
-built_in_js: false
+built_in_js: true
 add_editor_button: true
-player_parameters:
-  autoplay: 1
+width: 600
+player_parameters: 
+  autoplay: 0
   cc_load_policy: 0
   color: red
   controls: 1
   disablekb: 0
   enablejsapi: 0
-  fs: 1
+  fs: 0
   hl: null
   iv_load_policy: 1
   loop: 0
   modestbranding: 0
   origin: null
   playsinline: 0
-  rel: 1
+  rel: 0
   vq: default
 privacy_enhanced_mode: false
 lazy_load: false

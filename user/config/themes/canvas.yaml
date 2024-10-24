@@ -1,6 +1,6 @@
 style:
   color:
-    palette: dark
+    palette: light
     custom:
       light:
         bg: '#ffffff'
@@ -36,7 +36,7 @@ partials:
     where: header
   footer:
     theme_attribution:
-      toggle: true
+      toggle: false
     attribution:
       content: null
 media:

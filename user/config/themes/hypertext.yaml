@@ -9,7 +9,7 @@ structure:
 style:
   configuration: centered
   width: '768'
-  allowCSS: false
+  allowCSS: true
   allowJS: false
   stylesheet: water-light
   include_type: default
