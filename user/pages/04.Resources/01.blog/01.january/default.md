@@ -30,4 +30,9 @@ Larry Summers says the implications of AI are greater than any past technology: 
 
 [plugin:youtube](https://www.youtube.com/watch?v=wvBzGK72rgU)
 
+
 [plugin:youtube](https://www.youtube.com/watch?v=7bmhjt1cpRs)
+
+[plugin:youtube](https://www.youtube.com/watch?v=7bmhjt1cpRs&t=2068s)
+
+[plugin:youtube](https://www.youtube.com/watch?v=5UMtpfZt5-0)

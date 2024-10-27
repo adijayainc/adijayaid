@@ -9,8 +9,6 @@ content:
         dir: desc
 ---
 
-This is an example `blog` page with many children to demonstrate long lists of sequential content.
-
+ Lecture Series in AI: 
 ===
 
-This is a blog and it is functionally identical to a [collection](../collection).  The only difference is how it's representing the content.
