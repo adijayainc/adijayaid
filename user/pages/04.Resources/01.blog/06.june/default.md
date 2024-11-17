@@ -27,4 +27,4 @@ Trough of Disiullusionsmen : big data failed
 Slope of Enlightenment : info graphic , data journalism is improving 
 Plateau of productivity: 
 
-[youtube-plugin](https://www.youtube.com/watch?v=YKMZIzYBgTk&t=1670s)
+[plugin:youtube](https://www.youtube.com/watch?v=YKMZIzYBgTk&t=1670s)
