@@ -5,6 +5,10 @@ subtitle: 'The Future of Data Science'
 show_header_image: true
 header_image_file: jun-header.jpg
 thumbnail_image_file: calendar.jpg
+youtube:
+    player_parameters:
+        autoplay: 1
+        width: 600
 taxonomy:
     category:
         - 'summer'
@@ -13,7 +17,7 @@ taxonomy:
         - 'cloudy'
 ---
 
-June is when you get the BBQ out of storage.
+The Future of Data Science 
 
 ===
 
