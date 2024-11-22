@@ -36,6 +36,11 @@ Perkembangan AI semakin mendapat perhatian dengan ditetapkannya ilmuwan AI menda
 
 Hypothesis : LLM performance depends purely on task familiarity, not at all on task complexity
 
+** Gen AI Slow Down **
+
+Benarkan AI hit the wall , sudah tidak lagi dapat berkembang sesuai ekspektasi 
+
+
 ** Gen AI **
 Pengantar Generative Artificial Intelegent:
 - Merupakan Aplikasi Statistik 

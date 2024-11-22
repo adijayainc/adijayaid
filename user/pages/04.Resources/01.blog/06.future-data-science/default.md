@@ -1,7 +1,7 @@
 ---
 allowCSS: default
 allowJS: default
-subtitle: 'The Future of Data Science'
+subtitle:'The Future of Data Science'
 show_header_image: true
 header_image_file: jun-header.jpg
 thumbnail_image_file: calendar.jpg
