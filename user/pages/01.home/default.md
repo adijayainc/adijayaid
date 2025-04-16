@@ -32,6 +32,9 @@ show_clickthrough: true
 
 [Adijaya.Id](http://adijaya.id) Mempunyai misi untuk memudahkan adaptasi dengan perkembangan zaman dan mempelajari teknologi terbaru saat ini , yaitu  generative AI.
 
+Belajar AI sebaiknya dimulai dengan memahami apa itu Gen AI, banyak training dan webinar penjelasan salah satunya dari Google , Nidia , ada ti courseer 
+
+
 Perkembangan AI semakin mendapat perhatian dengan ditetapkannya ilmuwan AI mendapat [Nobel Prize](https://www.nature.com/articles/d41586-024-03310-8) tahun 2024, bahkan dalam 2 katagori, dalam bidang Fisika dan Kimia.
 
 Hypothesis : LLM performance depends purely on task familiarity, not at all on task complexity

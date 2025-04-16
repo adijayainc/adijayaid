@@ -1,0 +1,19 @@
+enabled: true
+from: trias@adijaya.id
+to: trias.adijaya@gmail.com
+mailer:
+  engine: smtp
+  smtp:
+    server: adijaya.id
+    port: 465
+    encryption: none
+    user: trias@adijaya.id
+    password: Kapinem!06
+  sendmail:
+    bin: '/usr/sbin/sendmail -bs'
+content_type: text/html
+debug: true
+cc: null
+bcc: null
+reply_to: null
+body: null
