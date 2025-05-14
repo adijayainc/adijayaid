@@ -23,7 +23,7 @@ jobs:
          
       - name: Pull the latest changes
         run: |
-          git pull origin master 
+          git pull origin main 
 
       - name: Modify last update
         run: |
